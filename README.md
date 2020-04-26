@@ -14,4 +14,4 @@ Contains all the data files,
 
 **Note:**
 
-*Few values are not exactly matching with the [iplt20.com](https://www.iplt20.com/stats/all-time) site results. Don't know how reliable the downloaded data or I might miss subtlety logic. Sorry, cricket lovers. This repository is only to show few pandas function for analysis.*
+*Few values are not exactly matching with the [iplt20.com](https://www.iplt20.com/stats/all-time) site results. Don't know how reliable the downloaded data or I missed subtlety logic. Sorry, cricket lovers. This repository is only to show few pandas function for analysis.*
